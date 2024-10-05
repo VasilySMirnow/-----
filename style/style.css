@@ -527,6 +527,11 @@ background-position: right center;
  color:#CC9933;
  cursor: pointer;
 }
+.btn-fotm-item:hover{
+  
+  background-color:#CC9933;
+  color: #FFFFFF;
+}
 .section-tour{
   background-color: #E9E9E9;
   margin-left: auto;
@@ -610,6 +615,11 @@ margin-top: 45px;
 margin-bottom: 45px;
 background-color: #FFFFFF;
 
+}
+.btn-adress:hover {
+
+  background-color:#CC9933;
+  color: #FFFFFF;
 }
 .contacts-image {
   margin-right:45px ;
